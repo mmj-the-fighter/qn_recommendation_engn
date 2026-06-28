@@ -1,7 +1,6 @@
 # Question Recommendation Engine
 
-This recommendation engine is for practice tests.  
-This is a reference Implementation. You can use this for your own experiments.  
+This is the refererence Implementation of a recommendation engine for practice tests.  
 
 ## Where
 
@@ -22,3 +21,7 @@ The skelton code is available from the intial commit.
 The complete idea of this recommendation system was given to me by UP (an irc user).
 
 I am thankful to that person.
+
+## Note
+recommendation_engine.py is in public domain.  
+Rest of the code is ai generated.  
