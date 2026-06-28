@@ -1,0 +1,52 @@
+[
+    {
+        "text": "Which data structure follows FIFO?",
+        "options": ["Stack", "Queue", "Tree", "Heap"],
+        "answer": 1
+    },
+    {
+        "text": "What is the average time complexity of binary search?",
+        "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+        "answer": 1
+    },
+    {
+        "text": "Which keyword defines a function in Python?",
+        "options": ["func", "define", "def", "function"],
+        "answer": 2
+    },
+    {
+        "text": "Which sorting algorithm repeatedly swaps adjacent elements?",
+        "options": ["Merge Sort", "Bubble Sort", "Heap Sort", "Quick Sort"],
+        "answer": 1
+    },
+    {
+        "text": "Which loop always executes at least once in C?",
+        "options": ["for", "while", "do-while", "foreach"],
+        "answer": 2
+    },
+    {
+        "text": "Which traversal visits Root, Left, Right?",
+        "options": ["Postorder", "Inorder", "Preorder", "Level Order"],
+        "answer": 2
+    },
+    {
+        "text": "Which data structure is commonly used for recursion?",
+        "options": ["Queue", "Stack", "Graph", "Array"],
+        "answer": 1
+    },
+    {
+        "text": "Which SQL command retrieves data?",
+        "options": ["INSERT", "DELETE", "UPDATE", "SELECT"],
+        "answer": 3
+    },
+    {
+        "text": "Which protocol is used for secure web browsing?",
+        "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+        "answer": 2
+    },
+    {
+        "text": "Which keyword is used to create an object in C++?",
+        "options": ["create", "alloc", "new", "malloc"],
+        "answer": 2
+    }
+]

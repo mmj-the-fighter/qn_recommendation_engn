@@ -1,0 +1,57 @@
+[
+    {
+        "text": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": 1
+    },
+    {
+        "text": "Which language is primarily used for Python programs?",
+        "options": ["Python", "Java", "C", "HTML"],
+        "answer": 0
+    },
+    {
+        "text": "Which device is used to point and click on a computer?",
+        "options": ["Monitor", "Keyboard", "Mouse", "Printer"],
+        "answer": 2
+    },
+    {
+        "text": "Which of the following is an operating system?",
+        "options": ["Windows", "Intel", "Python", "Chrome"],
+        "answer": 0
+    },
+    {
+        "text": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Power Unit",
+            "Central Program Utility",
+            "Core Processing Utility"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "How many bits are in one byte?",
+        "options": ["4", "8", "16", "32"],
+        "answer": 1
+    },
+    {
+        "text": "Which symbol is used for comments in Python?",
+        "options": ["//", "#", "/*", "--"],
+        "answer": 1
+    },
+    {
+        "text": "Which number is even?",
+        "options": ["7", "13", "18", "25"],
+        "answer": 2
+    },
+    {
+        "text": "Which data type stores True or False?",
+        "options": ["int", "float", "bool", "string"],
+        "answer": 2
+    },
+    {
+        "text": "Which key is commonly used to delete text to the left of the cursor?",
+        "options": ["Shift", "Enter", "Backspace", "Tab"],
+        "answer": 2
+    }
+]

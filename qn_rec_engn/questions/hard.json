@@ -1,0 +1,77 @@
+[
+    {
+        "text": "Dijkstra's algorithm assumes:",
+        "options": [
+            "Negative edge weights",
+            "Positive edge weights",
+            "Unweighted graph",
+            "Directed acyclic graph only"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "Which balancing property is maintained by an AVL tree?",
+        "options": [
+            "Equal number of nodes",
+            "Height difference at most one",
+            "Complete tree",
+            "Perfect tree"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "The worst-case time complexity of Quick Sort is:",
+        "options": ["O(log n)", "O(n)", "O(n²)", "O(n log n)"],
+        "answer": 2
+    },
+    {
+        "text": "Which scheduling algorithm may cause starvation?",
+        "options": [
+            "Round Robin",
+            "Priority Scheduling",
+            "FCFS",
+            "FIFO"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "Which normal form removes transitive dependencies?",
+        "options": ["1NF", "2NF", "3NF", "BCNF"],
+        "answer": 2
+    },
+    {
+        "text": "Which algorithm finds strongly connected components?",
+        "options": [
+            "Prim",
+            "Kruskal",
+            "Kosaraju",
+            "Bellman-Ford"
+        ],
+        "answer": 2
+    },
+    {
+        "text": "Which page replacement algorithm can exhibit Belady's anomaly?",
+        "options": ["LRU", "FIFO", "Optimal", "Clock"],
+        "answer": 1
+    },
+    {
+        "text": "Which complexity class contains problems verifiable in polynomial time?",
+        "options": ["P", "NP", "EXP", "PSPACE"],
+        "answer": 1
+    },
+    {
+        "text": "Which synchronization primitive allows only one thread to enter a critical section?",
+        "options": ["Semaphore", "Mutex", "Barrier", "Condition Variable"],
+        "answer": 1
+    },
+    {
+        "text": "Which graph algorithm detects negative-weight cycles?",
+        "options": [
+            "Dijkstra",
+            "Prim",
+            "Bellman-Ford",
+            "BFS"
+        ],
+        "answer": 2
+    }
+]
